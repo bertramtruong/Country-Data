@@ -1,4 +1,4 @@
-[  
+let phoneData = [  
    {  
       country_name:'Afghanistan',
       call_code:'+93',
@@ -1189,4 +1189,6 @@
       call_code:'+263',
       country_code:'ZW'
    }
-]
+];
+
+export default phoneData;
